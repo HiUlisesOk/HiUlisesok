@@ -15,7 +15,7 @@
 - 📈  I am eager to continue learning and growing.   
   
 
-- ⚡ Fun fact: I have the gift of Protanopia, which means I see the world in a unique and colorful way! (and it just means I see the world in a different light... literally!)
+- ⚡ Fun fact: I have the gift of discromatopsia, which means I see the world in a unique and colorful way! (and it just means I see the world in a different light... literally!)
   
 
 🚀 I study at Henry, a Bootcamp specialising in learning how to develop Web Applications. There I had the opportunity to hone my skills in key technologies such as JavaScript, CSS, Node.js and React. I also took part in their teaching assistant programme. Not only did I improve my technical skills, but I also learnt valuable skills in leading and coordinating groups. As a teaching assistant, I helped students with their integration into the study group and guided them through the first steps of the course.  
