@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">My name is Ulises, I'm 28 years old and I live in Zárate, Buenos Aires. I'm a Full-Stack developer passionate about technology, photography and books.  </div>  
+### <div align="center">My name is Ulises, I'm 28 years old and I live in Zárate, Buenos Aires. </div> 
+<div align="center"> I'm a Full-Stack developer passionate about technology, photography and books.  </div>  
   
 
 - 🌱 My goal is to apply my skills and knowledge to solve problems and improve people's lives through innovative and efficient applications.  
