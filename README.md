@@ -3,7 +3,7 @@
 </div>  
 
 ### <div align="center">I'm a Full-Stack Developer & QA Automation Engineer 🚀</div>  
-<div align="center">My name is Ulises, I'm 28 years old and I live in Zárate, Buenos Aires. 🇦🇷</div>  
+<div align="center">My name is Ulises, I'm 28 years old and I live in CABA, Buenos Aires. 🇦🇷</div>  
 
 ---
 
